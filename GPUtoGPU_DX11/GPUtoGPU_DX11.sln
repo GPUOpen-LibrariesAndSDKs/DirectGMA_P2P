@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "directGMA_DX11", "directGMA_DX11\directGMA_DX11.vcxproj", "{47E57CCA-5CF4-4B96-822B-5D7A4B2A3376}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47E57CCA-5CF4-4B96-822B-5D7A4B2A3376}.Debug|Win32.ActiveCfg = Debug|Win32
+		{47E57CCA-5CF4-4B96-822B-5D7A4B2A3376}.Debug|Win32.Build.0 = Debug|Win32
+		{47E57CCA-5CF4-4B96-822B-5D7A4B2A3376}.Release|Win32.ActiveCfg = Release|Win32
+		{47E57CCA-5CF4-4B96-822B-5D7A4B2A3376}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

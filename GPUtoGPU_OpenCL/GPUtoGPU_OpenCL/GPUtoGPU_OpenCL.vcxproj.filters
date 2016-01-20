@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\..\common\BufferQueue.cpp">
+      <Filter>common\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\common\FormatInfo.cpp">
+      <Filter>common\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\common\RenderTarget.cpp">
+      <Filter>common\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\common\Thread.cpp">
+      <Filter>common\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\common\GLWindow.cpp">
+      <Filter>common\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CLCopyApp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CLSink.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CLSource.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CLTransferBuffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WinMain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\common\ADLtool.cpp">
+      <Filter>common\Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\common\adl_prototypes.h">
+      <Filter>common\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\common\Thread.h">
+      <Filter>common\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\common\BufferQueue.h">
+      <Filter>common\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\common\FormatInfo.h">
+      <Filter>common\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\common\GLWindow.h">
+      <Filter>common\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\common\os_include.h">
+      <Filter>common\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\common\RenderTarget.h">
+      <Filter>common\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CLCopyApp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="defines.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CLSink.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CLSource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CLTransferBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\common\ADLtool.h">
+      <Filter>common\Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="common">
+      <UniqueIdentifier>{c3df05a5-e260-460d-8e50-f33c0a37cce1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{da103991-1bee-4051-8760-7758be0554b8}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="common\Source Files">
+      <UniqueIdentifier>{28c8215f-9794-4584-95e3-d06917e002e4}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="common\Header Files">
+      <UniqueIdentifier>{66bc0782-3114-400a-8765-1322f8e1e21a}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{a0bc178f-00f3-4397-b776-4910f9c0aa8d}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+  </ItemGroup>
+</Project>
